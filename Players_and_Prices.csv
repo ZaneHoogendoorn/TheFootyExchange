@@ -1,0 +1,635 @@
+,Name,Buy,Price,Sell,Last Rd %,L5 %,L10 %,Valuation
+0,Rory_Laird,11.54,11.09,10.64,0.27,1.74,8.94,Fair Value
+1,Ben_Keays,11.47,11.02,10.57,4.26,11.43,17.99,Overpriced
+2,Paul_Seedsman,9.61,9.06,8.51,-6.89,13.11,16.75,Fair Value
+3,Brodie_Smith,8.01,7.38,6.75,5.88,18.08,5.13,Fair Value
+4,Lachlan_Sholl,5.47,4.71,3.95,-0.84,-31.24,-18.65,Very Underpriced
+5,Tom_Doedee,6.24,5.52,4.8,-12.8,-22.14,-19.53,Very Underpriced
+6,Rory_Sloane,8.64,8.04,7.44,-3.6,-11.36,28.23,Fair Value
+7,Harry_Schoenberg,6.05,5.32,4.59,-4.83,-22.11,-18.53,Underpriced
+8,Reilly_OBrien,9.62,9.07,8.52,1.57,49.42,7.59,Overpriced
+9,Taylor_Walker,9.8,9.26,8.72,3.12,63.32,-30.22,Fair Value
+10,Jake_Kelly,5.1,4.32,3.54,13.39,-20.44,-15.95,Underpriced
+11,James_Rowe,5.31,4.54,3.77,-7.91,-9.38,-12.52,Fair Value
+12,Ned_McHenry,5.51,4.75,3.99,7.47,22.11,26.67,Overpriced
+13,Jordon_Butts,4.18,3.35,2.52,-16.67,-26.37,-16.25,Very Underpriced
+14,David_Mackay,5.44,4.67,3.9,-15.7,4.24,-12.38,Fair Value
+15,Andrew_McPherson,4.89,4.09,3.29,11.75,2.25,6.51,Fair Value
+16,Luke_Brown,5.55,4.79,4.03,-0.62,18.86,25.39,Fair Value
+17,Will_Hamill,3.38,2.5,1.62,-11.35,-35.06,-16.67,Very Underpriced
+18,Sam_Berry,4.11,3.27,2.43,-28.13,3.81,-24.31,Inconclusive
+19,Shane_McAdam,4.55,3.74,2.93,-15.58,-29.43,-35.74,Very Underpriced
+20,Riley_Thilthorpe,6.8,6.11,5.42,-17.43,-10.67,1.83,Inconclusive
+21,Lachlan_Murphy,6.1,5.37,4.64,18.28,19.33,19.6,Very Overpriced
+22,Chayce_Jones,4.9,4.11,3.32,3.79,28.04,52.22,Overpriced
+23,Darcy_Fogarty,5.29,4.52,3.75,-9.96,-1.74,-1.74,Fair Value
+24,Tom_Lynch,6.08,5.35,4.62,-3.08,-20.74,-10.08,Underpriced
+25,Billy_Frampton,3.99,3.15,2.31,-3.08,-44.05,-35.58,Very Underpriced
+26,Nick_Murray,5.09,4.31,3.53,-10.4,-28.17,-28.17,Inconclusive
+27,Jackson_Hately,4.63,3.82,3.01,-7.28,-11.37,-24.51,Underpriced
+28,Elliott_Himmelberg,4.92,4.13,3.34,-9.63,-31.62,-4.62,Very Underpriced
+29,Ronin_OConnor,4.51,3.69,2.87,-21.66,-38.5,-38.5,Inconclusive
+30,Mitch_Hinge,5.2,4.42,3.64,-19.78,-26.33,-26.33,Inconclusive
+31,Josh_Worrell,5.08,4.3,3.51,-28.33,-28.33,-28.33,Inconclusive
+32,Jarryd_Lyons,10.59,10.09,9.59,-5.26,-12.64,-1.08,Fair Value
+33,Daniel_Rich,8.05,7.42,6.79,0.0,-8.73,-15.59,Underpriced
+34,Hugh_McCluggage,8.08,7.45,6.82,-15.63,-27.6,-16.01,Very Underpriced
+35,Dayne_Zorko,11.31,10.85,10.39,-8.67,24.57,42.2,Overpriced
+36,Mitch_Robinson,7.24,6.57,5.9,-5.06,-15.23,16.28,Underpriced
+37,Zac_Bailey,9.05,8.47,7.89,-13.84,2.17,30.51,Overpriced
+38,Grant_Birchall,6.18,5.45,4.72,2.64,-12.24,5.01,Fair Value
+39,Lachie_Neale,9.75,9.21,8.67,-17.1,10.17,11.64,Fair Value
+40,Harris_Andrews,6.79,6.09,5.39,-9.51,-11.09,-18.36,Underpriced
+41,Joe_Daniher,8.39,7.78,7.17,20.06,-12.29,17.52,Fair Value
+42,Lincoln_McCarthy,7.95,7.32,6.69,18.45,7.81,23.44,Overpriced
+43,Brandon_Starcevich,5.05,4.26,3.47,-18.7,-18.7,1.19,Underpriced
+44,Marcus_Adams,6.03,5.3,4.57,-0.56,-6.19,11.58,Fair Value
+45,Deven_Robertson,6.26,5.54,4.82,2.97,13.99,13.06,Inconclusive
+46,Eric_Hipwood,6.24,5.52,4.8,-17.37,-10.82,-26.89,Very Underpriced
+47,Oscar_McInerney,9.39,8.83,8.27,24.37,28.72,27.42,Very Overpriced
+48,Charlie_Cameron,7.79,7.15,6.51,27.22,-11.4,50.21,Overpriced
+49,Callum_Ah Chee,3.74,2.88,2.02,-19.55,-32.24,-7.1,Very Underpriced
+50,Rhys_Mathieson,7.38,6.72,6.06,-9.43,49.0,43.28,Overpriced
+51,Jaxon_Prior,4.66,3.85,3.04,-12.3,-24.66,-20.29,Inconclusive
+52,Ryan_Lester,4.7,3.89,3.08,-3.47,-19.13,-17.58,Underpriced
+53,Daniel_McStay,4.59,3.78,2.97,-8.47,-45.3,26.42,Very Underpriced
+54,Keidean_Coleman,4.76,3.96,3.16,-4.12,2.86,-14.84,Inconclusive
+55,Darcy_Gardiner,6.51,5.8,5.09,12.19,39.76,47.21,Very Overpriced
+56,James_Madden,5.45,4.68,3.91,-9.3,-22.0,-22.0,Inconclusive
+57,Jarrod_Berry,4.4,3.58,2.76,-24.47,-43.53,-39.93,Very Underpriced
+58,Tom_Fullarton,4.63,3.82,3.01,-7.06,-36.33,-36.33,Inconclusive
+59,Jack_Payne,4.23,3.4,2.57,-17.48,5.92,-43.33,Inconclusive
+60,Tom_Berry,3.1,2.21,1.32,-17.54,11.62,-56.75,Inconclusive
+61,Harry_Sharp,4.69,3.88,3.07,-24.07,-35.33,-35.33,Inconclusive
+62,Connor_Ballenden,3.65,2.79,1.93,-26.96,-53.5,-53.5,Inconclusive
+63,Sam_Walsh,10.23,9.72,9.21,4.74,-2.99,7.05,Fair Value
+64,Patrick_Cripps,9.05,8.47,7.89,-6.2,5.22,-15.38,Fair Value
+65,Sam_Docherty,7.03,6.35,5.67,-16.88,-26.84,-26.59,Very Underpriced
+66,Ed_Curnow,5.65,4.89,4.13,-4.49,-49.69,-50.51,Very Underpriced
+67,Adam_Saad,8.16,7.54,6.92,-0.53,16.54,0.27,Fair Value
+68,Jacob_Weitering,8.18,7.56,6.94,20.57,-0.13,-2.33,Fair Value
+69,Zac_Williams,8.6,8.0,7.4,8.99,38.89,19.94,Overpriced
+70,Lachie_Fogarty,4.93,4.14,3.35,-19.3,-20.69,-46.58,Very Underpriced
+71,Jack_Newnes,6.02,5.28,4.54,15.28,-19.76,2.33,Underpriced
+72,Liam_Jones,7.08,6.4,5.72,-1.39,26.23,-2.88,Overpriced
+73,Michael_Gibbons,4.96,4.17,3.38,-28.35,-23.77,-29.2,Very Underpriced
+74,Marc_Murphy,7.38,6.72,6.06,-5.22,8.74,15.27,Overpriced
+75,Marc_Pittonet,6.98,6.29,5.6,9.01,-15.91,-10.53,Fair Value
+76,Lachie_Plowman,5.41,4.64,3.87,37.69,-11.95,5.94,Fair Value
+77,Sam_Petrevski-Seton,5.43,4.66,3.89,-12.08,-18.1,5.43,Underpriced
+78,Matthew_Cottrell,4.87,4.07,3.27,1.24,-28.35,-12.47,Underpriced
+79,Harry_McKay,8.58,7.98,7.38,-10.34,-14.29,-27.19,Underpriced
+80,Liam_Stocker,5.5,4.74,3.98,-0.63,4.41,17.62,Overpriced
+81,Eddie_Betts,6.03,5.3,4.57,13.25,-24.29,51.0,Fair Value
+82,Will_Setterfield,8.0,7.37,6.74,14.09,40.92,5.44,Very Overpriced
+83,Nic_Newman,7.04,6.36,5.68,4.61,6.71,-35.82,Underpriced
+84,Paddy_Dow,6.32,5.6,4.88,33.65,19.15,54.27,Very Overpriced
+85,Jack_Silvagni,4.61,3.8,2.99,-17.57,26.67,-14.8,Fair Value
+86,Levi_Casboult,4.84,4.04,3.24,-8.8,-19.04,-7.97,Fair Value
+87,Matthew_Owies,6.68,5.98,5.28,10.74,43.75,-0.33,Inconclusive
+88,Matthew_Kennedy,8.13,7.51,6.89,12.93,29.71,72.25,Very Overpriced
+89,Zac_Fisher,6.2,5.47,4.74,15.64,7.25,-6.97,Fair Value
+90,Jack_Martin,6.06,5.33,4.6,5.34,23.38,11.04,Fair Value
+91,David_Cuningham,7.35,6.68,6.01,-4.02,89.24,30.47,Very Overpriced
+92,Luke_Parks,3.15,2.26,1.37,-15.36,-59.79,-62.33,Inconclusive
+93,Tom_De Koning,5.17,4.39,3.61,-16.38,17.38,29.12,Fair Value
+94,Mitch_McGovern,5.55,4.79,4.03,-1.64,132.52,9.61,Very Overpriced
+95,Tom_Williamson,4.52,3.71,2.9,13.11,-3.89,9.44,Fair Value
+96,Oscar_McDonald,4.82,4.02,3.22,42.05,-9.66,-3.37,Fair Value
+97,Lochie_OBrien,5.44,4.67,3.9,11.46,2.19,-12.87,Fair Value
+98,Josh_Honey,5.12,4.34,3.56,-27.67,-27.67,-27.67,Inconclusive
+99,Jack_Crisp,9.52,8.97,8.42,1.93,6.79,-3.44,Fair Value
+100,Scott_Pendlebury,9.25,8.68,8.11,11.42,1.28,2.0,Overpriced
+101,Steele_Sidebottom,9.13,8.56,7.99,-0.23,-1.61,-1.72,Fair Value
+102,Brayden_Maynard,9.09,8.52,7.95,4.16,7.98,58.36,Very Overpriced
+103,John_Noble,5.51,4.75,3.99,-5.57,-21.62,-21.1,Underpriced
+104,Josh_Daicos,6.0,5.26,4.52,-12.91,-30.97,-14.47,Very Underpriced
+105,Isaac_Quaynor,6.25,5.53,4.81,-13.86,-10.52,-6.75,Underpriced
+106,Brodie_Grundy,10.68,10.19,9.7,8.29,-3.6,41.72,Fair Value
+107,Chris_Mayne,8.7,8.1,7.51,0.62,23.29,116.58,Very Overpriced
+108,Darcy_Moore,8.61,8.01,7.41,7.95,22.48,17.79,Very Overpriced
+109,Will_Hoskin-Elliott,7.49,6.83,6.17,-4.61,-4.61,110.15,Overpriced
+110,Jordan_de Goey,9.03,8.45,7.87,7.92,-5.8,72.45,Overpriced
+111,Jordan_Roughead,6.74,6.04,5.34,-5.77,35.73,8.83,Fair Value
+112,Josh_Thomas,6.06,5.33,4.6,17.92,9.0,30.96,Overpriced
+113,Jack_Madgen,5.73,4.98,4.23,12.67,-11.23,50.91,Fair Value
+114,Taylor_Adams,9.8,9.26,8.72,-2.63,21.68,4.63,Overpriced
+115,Brody_Mihocek,6.57,5.86,5.15,6.35,3.53,-3.3,Fair Value
+116,Callum_Brown,3.94,3.09,2.24,1.98,-29.29,-19.32,Very Underpriced
+117,Darcy_Cameron,8.46,7.85,7.24,5.37,-13.64,189.67,Overpriced
+118,Caleb_Poulter,5.48,4.72,3.96,-23.13,-10.27,-21.33,Inconclusive
+119,Tyler_Brown,5.42,4.65,3.88,-12.92,-1.69,62.59,Fair Value
+120,Brayden_Sier,6.27,5.55,4.83,32.46,23.88,31.21,Overpriced
+121,Jeremy_Howe,5.83,5.08,4.33,-25.51,-33.51,-34.28,Very Underpriced
+122,Nathan_Murphy,4.05,3.21,2.37,23.94,-22.28,-46.5,Inconclusive
+123,Beau_McCreery,5.01,4.22,3.43,-1.86,-25.44,-29.67,Inconclusive
+124,Jamie_Elliott,8.07,7.44,6.81,-3.38,32.38,15.17,Overpriced
+125,Mark_Keane,5.24,4.46,3.68,3.24,-25.67,-25.67,Inconclusive
+126,Trent_Bianco,5.78,5.03,4.28,9.35,-16.17,-16.17,Inconclusive
+127,Mason_Cox,5.46,4.7,3.94,-24.19,-5.05,21.45,Underpriced
+128,Finlay_Macrae,4.67,3.86,3.05,-15.9,-35.67,-35.67,Inconclusive
+129,Tom_Wilson,4.54,3.73,2.92,-15.03,-37.83,-37.83,Inconclusive
+130,Levi_Greenwood,4.09,3.25,2.41,40.69,-20.34,-34.74,Underpriced
+131,Max_Lynch,5.13,4.35,3.57,9.3,-27.5,-27.5,Inconclusive
+132,Jay_Rantall,3.38,2.5,1.62,-28.37,-58.33,-58.33,Inconclusive
+133,Oliver_Henry,3.53,2.66,1.79,-28.88,-55.67,-55.67,Inconclusive
+134,Trey_Ruscoe,3.44,2.57,1.7,29.8,-46.9,-57.17,Inconclusive
+135,Will_Kelly,4.82,4.02,3.22,-19.44,-33.0,-33.0,Inconclusive
+136,Zach_Merrett,10.54,10.04,9.54,9.85,16.07,6.13,Fair Value
+137,Darcy_Parish,12.47,12.07,11.67,-4.21,-5.63,35.77,Fair Value
+138,Nick_Hind,8.23,7.61,6.99,-11.61,-14.49,5.4,Fair Value
+139,Kyle_Langford,9.81,9.27,8.73,3.34,36.12,45.75,Very Overpriced
+140,Dyson_Heppell,8.81,8.22,7.63,7.59,9.45,35.42,Overpriced
+141,Jordan_Ridley,8.11,7.48,6.85,9.68,-3.98,-6.15,Fair Value
+142,Andrew_McGrath,9.44,8.88,8.32,-2.2,14.14,4.84,Fair Value
+143,Mason_Redman,6.29,5.57,4.85,-2.62,-21.55,21.09,Fair Value
+144,Jayden_Laverde,5.24,4.46,3.68,-0.22,-24.53,-0.67,Underpriced
+145,Brayden_Ham,5.58,4.82,4.06,1.47,16.71,2.55,Fair Value
+146,Will_Snelling,7.17,6.49,5.81,-6.35,-0.92,63.89,Overpriced
+147,Nik_Cox,5.45,4.68,3.91,-25.6,22.19,-18.04,Underpriced
+148,Cale_Hooker,6.72,6.02,5.32,-5.79,5.43,-25.68,Underpriced
+149,Anthony_McDonald-Tipungwuti,5.5,4.74,3.98,-12.71,-44.95,-28.83,Very Underpriced
+150,Archie_Perkins,4.63,3.82,3.01,20.89,-13.18,-14.92,Inconclusive
+151,Devon_Smith,5.28,4.51,3.74,7.64,-26.79,-23.43,Very Underpriced
+152,Jake_Stringer,10.55,10.05,9.55,12.29,23.16,192.15,Very Overpriced
+153,Matt_Guelfi,5.38,4.61,3.84,2.9,-10.31,10.55,Fair Value
+154,Peter_Wright,6.99,6.31,5.63,1.45,-9.47,3.78,Fair Value
+155,Aaron_Francis,4.31,3.48,2.65,-10.54,-35.07,-15.94,Very Underpriced
+156,Harry_Jones,5.84,5.09,4.34,-13.73,-7.96,27.57,Fair Value
+157,James_Stewart,5.44,4.67,3.9,-7.16,2.64,-3.31,Fair Value
+158,David_Zaharakis,6.3,5.58,4.86,3.91,-4.62,15.53,Fair Value
+159,Alec_Waterman,5.7,4.95,4.2,4.43,-24.54,-17.5,Inconclusive
+160,Andrew_Phillips,7.39,6.73,6.07,8.72,18.9,-11.21,Overpriced
+161,Brandon_Zerk-Thatcher,4.41,3.59,2.77,11.15,9.12,16.94,Very Overpriced
+162,Sam_Draper,7.29,6.62,5.95,6.09,48.43,5.08,Inconclusive
+163,Dylan_Shiel,8.62,8.02,7.42,-4.3,-3.37,13.44,Fair Value
+164,Jye_Caldwell,5.93,5.19,4.45,0.58,36.94,10.19,Inconclusive
+165,Tom_Cutler,4.79,3.99,3.19,-1.48,-5.0,-48.78,Very Underpriced
+166,Ned_Cahill,3.25,2.37,1.49,-2.07,-50.42,-60.5,Inconclusive
+167,Martin_Gleeson,4.51,3.69,2.87,25.51,-14.58,8.53,Fair Value
+168,Nick_Bryan,6.5,5.79,5.08,-3.5,-3.5,-3.5,Inconclusive
+169,Zach_Reid,5.85,5.11,4.37,-14.83,-14.83,-14.83,Inconclusive
+170,Patrick_Ambrose,4.38,3.56,2.74,-30.2,-19.27,-15.04,Underpriced
+171,David_Mundy,9.63,9.08,8.53,-6.39,-11.76,2.25,Underpriced
+172,Andrew_Brayshaw,9.9,9.37,8.84,-5.92,1.52,19.36,Fair Value
+173,Caleb_Serong,6.42,5.71,5.0,-10.5,-31.2,-24.37,Very Underpriced
+174,Nat_Fyfe,9.95,9.42,8.89,-15.52,-6.64,-0.42,Fair Value
+175,James_Aish,7.71,7.06,6.41,1.0,17.67,39.25,Overpriced
+176,Blake_Acres,7.55,6.9,6.25,4.86,11.83,22.12,Overpriced
+177,Adam_Cerra,7.65,7.0,6.35,-10.14,-16.96,9.2,Underpriced
+178,Luke_Ryan,8.15,7.53,6.91,-6.69,-1.57,14.44,Fair Value
+179,Nathan_Wilson,6.48,5.77,5.06,4.72,-14.01,3.04,Fair Value
+180,Sean_Darcy,9.96,9.43,8.9,0.75,5.6,6.19,Fair Value
+181,Travis_Colyer,5.82,5.07,4.32,2.84,1.81,-0.2,Fair Value
+182,Michael_Walters,5.59,4.83,4.07,-20.95,-16.87,-33.01,Very Underpriced
+183,Lachie_Schultz,6.69,5.99,5.29,15.64,26.64,28.54,Overpriced
+184,Darcy_Tucker,6.12,5.39,4.66,-15.12,18.72,-23.33,Fair Value
+185,Brennan_Cox,6.72,6.02,5.32,1.01,3.61,29.46,Overpriced
+186,Rory_Lobb,8.98,8.4,7.82,-4.76,21.21,70.73,Very Overpriced
+187,Reece_Conca,5.44,4.67,3.9,12.26,2.19,8.35,Fair Value
+188,Ethan_Hughes,5.8,5.05,4.3,-23.25,-10.3,11.23,Fair Value
+189,Matthew_Taberner,5.15,4.37,3.59,-30.96,-51.34,-39.22,Very Underpriced
+190,Mitch_Crowden,4.48,3.66,2.84,-4.19,43.53,5.78,Overpriced
+191,Taylin_Duman,6.42,5.71,5.0,24.67,46.41,18.22,Very Overpriced
+192,Sam_Switkowski,5.02,4.23,3.44,-0.94,-38.43,-9.62,Very Underpriced
+193,Griffin_Logue,6.42,5.71,5.0,6.33,60.85,56.44,Very Overpriced
+194,Heath_Chapman,5.08,4.29,3.5,-14.71,-17.66,-28.5,Inconclusive
+195,Tobe_Watson,3.69,2.83,1.97,-19.14,-46.2,-43.96,Inconclusive
+196,Liam_Henry,5.72,4.97,4.22,16.67,64.03,12.7,Inconclusive
+197,Connor_Blakely,3.89,3.04,2.19,-18.72,-21.65,-43.39,Very Underpriced
+198,Michael_Frederick,5.24,4.46,3.68,-12.38,31.18,33.13,Overpriced
+199,Josh_Treacy,5.89,5.15,4.41,-15.3,64.01,-14.17,Inconclusive
+200,Stefan_Giro,5.66,4.91,4.16,37.54,20.05,6.97,Inconclusive
+201,Hayden_Young,4.61,3.8,2.99,-31.28,-6.63,-36.67,Inconclusive
+202,Lloyd_Meek,4.84,4.04,3.24,-17.72,-32.67,-32.67,Inconclusive
+203,Brett_Bewley,6.28,5.56,4.84,18.05,9.02,1.65,Overpriced
+204,Alex_Pearce,4.1,3.26,2.42,-5.23,-19.31,-31.94,Underpriced
+205,Brandon_Walker,5.49,4.73,3.97,-13.05,-21.17,-21.17,Inconclusive
+206,Joel_Hamling,5.61,4.85,4.09,-11.66,-15.94,6.13,Underpriced
+207,Sam_Sturt,4.67,3.86,3.05,-13.84,-35.67,-35.67,Inconclusive
+208,Joel_Western,5.3,4.53,3.76,-24.5,-24.5,-24.5,Inconclusive
+209,Cameron_Guthrie,9.87,9.34,8.81,4.24,-5.75,14.04,Fair Value
+210,Tom_Stewart,8.48,7.87,7.26,-12.07,-1.62,0.9,Fair Value
+211,Joel_Selwood,8.86,8.27,7.68,-22.27,2.22,-5.38,Fair Value
+212,Isaac_Smith,8.5,7.9,7.29,7.48,-1.0,-1.86,Fair Value
+213,Zach_Tuohy,8.53,7.93,7.33,9.83,16.79,32.17,Overpriced
+214,Brandan_Parfitt,9.02,8.44,7.86,3.3,50.71,36.35,Overpriced
+215,Sam_Menegola,7.79,7.15,6.51,-17.25,-9.26,-1.92,Underpriced
+216,Tom_Atkins,5.24,4.46,3.68,0.68,-26.52,-31.28,Very Underpriced
+217,Mitch_Duncan,8.52,7.92,7.32,-11.9,-27.93,13.63,Underpriced
+218,Lachie_Henderson,6.54,5.83,5.12,1.92,-13.11,22.74,Fair Value
+219,Mark_Blicavs,9.65,9.11,8.57,1.22,32.61,51.58,Very Overpriced
+220,Shaun_Higgins,5.77,5.02,4.27,-8.89,-18.9,-13.89,Very Underpriced
+221,Tom_Hawkins,8.27,7.65,7.03,-11.15,-15.47,-6.25,Underpriced
+222,Jack_Henry,6.42,5.7,4.99,-6.86,-11.08,6.94,Fair Value
+223,Jed_Bews,4.63,3.82,3.01,-22.67,-4.74,-2.3,Underpriced
+224,Luke_Dahlhaus,4.14,3.31,2.48,-23.56,-21.0,-10.54,Underpriced
+225,Brad_Close,4.81,4.01,3.21,-18.33,-28.39,8.09,Underpriced
+226,Gary_Rohan,7.51,6.85,6.19,-8.79,-23.72,83.65,Fair Value
+227,Quinton_Narkle,7.69,7.04,6.39,0.43,48.21,62.59,Very Overpriced
+228,Jake_Kolodjashnij,4.38,3.56,2.74,5.95,-26.6,-7.29,Very Underpriced
+229,Rhys_Stanley,8.41,7.8,7.19,11.75,10.64,0.26,Fair Value
+230,Mark_OConnor,5.98,5.24,4.5,23.88,-21.32,51.45,Fair Value
+231,Jeremy_Cameron,7.48,6.82,6.16,-18.03,-18.91,11.26,Fair Value
+232,Patrick_Dangerfield,8.98,8.4,7.82,2.82,1.33,-9.39,Fair Value
+233,Gryan_Miers,6.65,5.95,5.25,-11.59,17.82,36.47,Overpriced
+234,Jordan_Clark,5.56,4.8,4.04,-15.94,10.34,-28.36,Fair Value
+235,Zach_Guthrie,4.52,3.7,2.89,-7.73,-7.5,9.14,Fair Value
+236,Esava_Ratugolea,5.29,4.52,3.75,-8.13,-20.42,2.96,Fair Value
+237,Charlie_Constable,5.98,5.24,4.5,-2.42,-25.78,-18.38,Inconclusive
+238,Max_Holmes,6.06,5.33,4.6,-3.27,-11.17,-11.17,Inconclusive
+239,Sam_Simpson,5.46,4.69,3.92,8.06,0.43,76.98,Fair Value
+240,Sam_De Koning,5.72,4.97,4.22,-17.17,-17.17,-17.17,Inconclusive
+241,Francis_Evans,6.43,5.72,5.01,-4.67,-4.67,-4.67,Inconclusive
+242,Josh_Jenkins,6.02,5.28,4.54,-26.77,-31.52,-36.54,Very Underpriced
+243,Touk_Miller,11.68,11.24,10.8,-3.27,8.81,47.51,Overpriced
+244,Brandon_Ellis,8.62,8.02,7.42,15.4,1.65,-11.28,Fair Value
+245,Noah_Anderson,6.92,6.23,5.54,-5.18,-19.3,-38.44,Underpriced
+246,David_Swallow,9.34,8.78,8.22,2.33,10.16,3.91,Overpriced
+247,Jack_Lukosius,7.51,6.85,6.19,-13.73,6.53,3.95,Fair Value
+248,Jack_Bowes,5.88,5.14,4.4,-8.54,-38.15,-36.62,Very Underpriced
+249,Hugh_Greenwood,7.93,7.29,6.65,0.97,-27.68,-23.26,Very Underpriced
+250,Oleg_Markov,7.78,7.14,6.5,5.47,-3.64,11.56,Fair Value
+251,Wil_Powell,7.45,6.79,6.13,-9.1,19.33,21.25,Fair Value
+252,Lachie_Weller,6.4,5.68,4.96,-8.09,-14.07,-20.0,Underpriced
+253,Sean_Lemmens,5.09,4.31,3.53,-10.02,-5.69,-10.95,Fair Value
+254,Charlie_Ballard,5.85,5.11,4.37,-12.8,-3.22,-11.59,Fair Value
+255,Izak_Rankine,6.51,5.8,5.09,-8.95,12.19,-4.45,Fair Value
+256,Nick_Holman,5.44,4.67,3.9,19.74,-26.22,13.9,Fair Value
+257,Sam_Flanders,6.52,5.81,5.1,19.79,18.57,140.08,Very Overpriced
+258,Sam_Collins,5.95,5.21,4.47,-15.7,16.04,-0.57,Fair Value
+259,Ben_Ainsworth,5.59,4.83,4.07,-11.38,-5.66,-24.77,Underpriced
+260,Ben_King,5.09,4.31,3.53,-23.31,-43.51,-37.45,Very Underpriced
+261,Alex_Sexton,6.79,6.09,5.39,7.98,38.72,-13.49,Fair Value
+262,Chris_Burgess,6.12,5.39,4.66,-1.28,12.29,-1.64,Fair Value
+263,Darcy_Macpherson,6.36,5.64,4.92,-11.6,49.21,73.01,Very Overpriced
+264,Jy_Farrar,4.04,3.2,2.36,-19.8,-43.16,-46.67,Inconclusive
+265,Caleb_Graham,3.89,3.04,2.19,8.19,-25.49,-8.71,Underpriced
+266,Josh_Corbett,5.74,4.99,4.24,-1.38,-13.97,35.23,Underpriced
+267,Matt_Rowell,7.03,6.35,5.67,-16.23,-20.13,5.83,Inconclusive
+268,Zac_Smith,6.59,5.88,5.17,8.09,-6.52,-17.65,Fair Value
+269,Will_Brodie,5.09,4.31,3.53,-27.81,-28.29,-40.06,Very Underpriced
+270,Jarrod_Witts,6.92,6.23,5.54,-5.03,11.45,8.35,Overpriced
+271,Jarrod_Harbrow,5.13,4.35,3.57,27.94,14.78,1.4,Fair Value
+272,Sam_Day,4.35,3.53,2.71,-2.49,-12.62,-24.57,Underpriced
+273,Rory_Atkins,4.88,4.08,3.28,28.71,-14.82,-41.04,Underpriced
+274,Connor_Budarick,4.58,3.77,2.96,34.64,67.56,27.8,Very Overpriced
+275,Jeremy_Sharp,5.39,4.62,3.85,15.21,-23.0,-23.0,Inconclusive
+276,Malcolm_Rosas,3.68,2.82,1.96,-32.05,-53.0,-53.0,Inconclusive
+277,Brayden_Fiorini,4.81,4.01,3.21,1.52,-45.29,-47.38,Very Underpriced
+278,Tim_Taranto,10.32,9.81,9.3,-3.16,-7.97,5.26,Fair Value
+279,Jacob_Hopper,10.73,10.24,9.75,0.29,-11.27,13.02,Fair Value
+280,Josh_Kelly,10.72,10.23,9.74,-11.96,6.9,26.77,Fair Value
+281,Callan_Ward,9.66,9.12,8.58,11.49,16.62,6.42,Fair Value
+282,Isaac_Cumming,9.48,8.93,8.38,8.24,21.17,18.12,Overpriced
+283,Lachie_Ash,6.86,6.17,5.48,-10.58,-20.39,16.42,Fair Value
+284,Tom_Green,7.21,6.54,5.87,-14.4,-23.06,5.31,Underpriced
+285,Toby_Greene,9.38,8.82,8.26,-9.54,-9.72,20.0,Fair Value
+286,Lachie_Whitfield,9.33,8.77,8.21,-4.47,20.3,20.14,Fair Value
+287,Nick_Haynes,8.29,7.67,7.05,4.64,38.45,65.3,Very Overpriced
+288,Harry_Himmelberg,6.42,5.71,5.0,-19.24,7.53,-22.84,Underpriced
+289,Harry_Perryman,8.37,7.76,7.15,16.17,16.87,17.93,Overpriced
+290,Connor_Idun,5.46,4.69,3.92,-12.01,-7.13,1.08,Fair Value
+291,Jack_Buckley,5.31,4.54,3.77,-8.84,2.02,-4.42,Fair Value
+292,Sam_Taylor,6.73,6.03,5.33,2.73,-1.31,65.66,Fair Value
+293,Bobby_Hill,5.14,4.36,3.58,0.46,7.13,6.34,Fair Value
+294,Matt_Flynn,7.43,6.77,6.11,-10.21,13.97,12.83,Inconclusive
+295,Jeremy_Finlayson,6.9,6.21,5.52,-25.18,-6.62,48.92,Fair Value
+296,Xavier_OHalloran,5.49,4.73,3.97,-4.83,-4.64,-21.17,Inconclusive
+297,Daniel_Lloyd,6.65,5.95,5.25,-0.83,-11.33,42.0,Fair Value
+298,Brent_Daniels,5.35,4.58,3.81,-11.41,-8.4,-4.38,Underpriced
+299,Matt_de Boer,4.63,3.82,3.01,-17.14,-7.73,-0.52,Fair Value
+300,Lachlan_Keeffe,4.92,4.13,3.34,-19.34,-14.49,1.47,Underpriced
+301,Shane_Mumford,5.13,4.35,3.57,-2.03,-38.56,-16.98,Very Underpriced
+302,Sam_Reid,4.38,3.56,2.74,1.14,32.34,39.06,Very Overpriced
+303,Matt_Buntine,4.11,3.27,2.43,-6.57,-23.78,-33.67,Underpriced
+304,Jake_Riccardi,4.18,3.35,2.52,-8.22,-21.18,-50.88,Inconclusive
+305,Stephen_Coniglio,7.24,6.57,5.9,-16.62,10.79,-20.75,Underpriced
+306,Phil_Davis,4.47,3.65,2.83,-3.18,-2.67,29.89,Fair Value
+307,Adam_Kennedy,4.81,4.01,3.21,27.3,-16.8,-24.77,Fair Value
+308,Zach_Sproule,5.43,4.66,3.89,-4.51,-22.33,-22.33,Inconclusive
+309,Tanner_Bruhn,3.33,2.45,1.57,-16.1,-59.17,-59.17,Inconclusive
+310,Jesse_Hogan,9.57,9.02,8.47,32.06,123.27,45.48,Very Overpriced
+311,Kieren_Briggs,6.48,5.77,5.06,9.9,-3.83,-3.83,Inconclusive
+312,Conor_Stone,4.55,3.74,2.93,-17.8,-37.67,-37.67,Inconclusive
+313,Nick_Shipley,3.68,2.82,1.96,-8.44,-53.0,-53.0,Inconclusive
+314,Jake_Stein,4.21,3.38,2.55,-7.65,-39.21,-43.67,Inconclusive
+315,Callum_Brown,6.7,6.0,5.3,0.0,0.0,0.0,Inconclusive
+316,Tom_Mitchell,10.7,10.21,9.72,-7.27,15.5,4.29,Fair Value
+317,Jaeger_OMeara,9.94,9.41,8.88,5.02,-15.68,14.2,Fair Value
+318,Changkuoth_Jiath,7.73,7.08,6.43,9.26,13.1,-6.72,Fair Value
+319,Jarman_Impey,6.9,6.21,5.52,13.32,-23.99,-14.34,Underpriced
+320,Liam_Shiels,8.65,8.05,7.45,4.27,23.09,19.61,Overpriced
+321,Jack_Scrimshaw,8.54,7.94,7.34,8.92,2.58,40.78,Overpriced
+322,James_Worpel,8.88,8.29,7.7,15.62,-11.62,68.5,Overpriced
+323,Tom_Phillips,6.83,6.14,5.45,-3.76,-4.21,-16.35,Fair Value
+324,Daniel_Howe,8.23,7.61,6.99,4.97,27.47,72.17,Very Overpriced
+325,Chad_Wingard,6.76,6.06,5.36,-16.76,-13.92,-12.43,Underpriced
+326,Sam_Frost,5.96,5.22,4.48,-1.32,-4.74,-4.22,Fair Value
+327,Dylan_Moore,9.18,8.61,8.04,32.06,88.82,23.53,Very Overpriced
+328,Harry_Morrison,6.02,5.28,4.54,-9.12,-7.04,-12.73,Underpriced
+329,Ben_McEvoy,9.52,8.97,8.42,14.41,28.14,40.16,Very Overpriced
+330,Luke_Breust,6.55,5.84,5.13,-21.08,-12.84,7.16,Underpriced
+331,James_Cousins,7.58,6.93,6.28,1.17,-8.21,12.5,Fair Value
+332,Kyle_Hartigan,4.79,3.99,3.19,9.32,-1.97,0.76,Fair Value
+333,Tim_OBrien,6.48,5.77,5.06,40.39,2.67,-3.35,Overpriced
+334,Shaun_Burgoyne,4.21,3.38,2.55,0.9,-30.17,-27.93,Very Underpriced
+335,Jacob_Koschitzke,4.84,4.04,3.24,-21.25,-42.2,0.25,Inconclusive
+336,Will_Day,6.79,6.09,5.39,17.79,21.31,20.59,Overpriced
+337,Oliver_Hanrahan,4.67,3.86,3.05,9.66,-22.95,3.49,Fair Value
+338,Jonathon_Ceglar,8.16,7.54,6.92,15.82,25.88,43.89,Very Overpriced
+339,Mitch_Lewis,6.35,5.63,4.91,16.08,-20.59,116.54,Overpriced
+340,Michael_Hartley,6.47,5.76,5.05,-11.25,-4.0,37.47,Fair Value
+341,Tyler_Brockman,5.7,4.95,4.2,-8.33,-17.5,-17.5,Inconclusive
+342,Jai_Newcombe,5.32,4.55,3.78,2.02,-24.17,-24.17,Inconclusive
+343,Lachlan_Bramble,5.27,4.49,3.71,-11.79,-25.17,-25.17,Inconclusive
+344,Damon_Greaves,5.24,4.46,3.68,-6.89,-25.67,-25.67,Inconclusive
+345,Ned_Reeves,6.74,6.04,5.34,1.0,0.67,0.67,Inconclusive
+346,Finn_Maginness,4.69,3.88,3.07,4.3,-35.33,-35.33,Inconclusive
+347,Emerson_Jeka,4.51,3.69,2.87,-16.7,-38.5,-38.5,Inconclusive
+348,Denver_Grainger-Barras,5.62,4.86,4.1,-19.0,-19.0,-19.0,Inconclusive
+349,Jack_Gunston,6.83,6.14,5.45,-26.38,-12.78,3.37,Fair Value
+350,Josh_Morris,2.36,1.43,0.5,-35.0,-67.79,-76.17,Inconclusive
+351,Conor_Nash,3.36,2.48,1.6,-22.98,-42.19,-17.61,Very Underpriced
+352,Connor_Downie,6.7,6.0,5.3,0.0,0.0,0.0,Inconclusive
+353,Clayton_Oliver,10.19,9.67,9.15,-14.65,-12.41,-10.88,Underpriced
+354,Christian_Petracca,11.34,10.88,10.42,-4.39,0.83,-9.93,Fair Value
+355,Christian_Salem,7.68,7.03,6.38,4.93,-25.05,-0.14,Underpriced
+356,Ed_Langdon,8.32,7.71,7.1,6.64,-6.2,-7.0,Fair Value
+357,Angus_Brayshaw,6.53,5.82,5.11,1.93,-7.91,0.52,Fair Value
+358,Max_Gawn,10.63,10.14,9.65,-10.03,26.91,-9.3,Fair Value
+359,James_Jordon,7.82,7.18,6.54,19.67,9.62,70.14,Very Overpriced
+360,Steven_May,8.07,7.44,6.81,6.29,0.95,1.36,Overpriced
+361,Trent_Rivers,6.22,5.49,4.76,-3.51,12.73,26.5,Fair Value
+362,Jake_Lever,6.46,5.75,5.04,2.68,4.93,-14.94,Fair Value
+363,Tom_McDonald,6.74,6.04,5.34,3.07,-37.15,-13.71,Very Underpriced
+364,Alex_Neal-Bullen,5.87,5.13,4.39,-11.4,-21.92,-21.2,Underpriced
+365,Jayden_Hunt,5.42,4.65,3.88,37.57,1.31,-21.05,Fair Value
+366,James_Harmes,9.04,8.46,7.88,9.02,14.79,140.34,Very Overpriced
+367,Kysaiah_Pickett,5.91,5.17,4.43,-6.34,-8.33,-33.29,Very Underpriced
+368,Luke_Jackson,7.01,6.33,5.65,0.16,1.93,19.66,Fair Value
+369,Charlie_Spargo,5.17,4.39,3.61,7.07,0.23,-14.76,Fair Value
+370,Michael_Hibberd,5.27,4.49,3.71,12.81,-5.87,-0.66,Fair Value
+371,Bayley_Fritsch,5.86,5.12,4.38,-1.35,-21.71,-20.87,Very Underpriced
+372,Jack_Viney,8.05,7.42,6.79,-10.17,0.13,6.15,Fair Value
+373,Nathan_Jones,4.93,4.14,3.35,2.48,-1.66,-3.5,Fair Value
+374,Jake_Melksham,4.15,3.32,2.49,-26.06,-24.89,-7.0,Very Underpriced
+375,Adam_Tomlinson,5.9,5.16,4.42,7.5,19.17,41.76,Overpriced
+376,Tom_Sparrow,5.11,4.33,3.55,13.95,4.34,-2.91,Fair Value
+377,Harry_Petty,4.45,3.63,2.81,-7.63,-3.46,-31.89,Underpriced
+378,Neville_Jetta,3.65,2.79,1.93,-3.79,76.58,-13.89,Fair Value
+379,Sam_Weideman,4.04,3.2,2.36,-23.44,31.69,-53.76,Very Underpriced
+380,Ben_Brown,5.95,5.21,4.47,-2.98,5.47,-34.13,Fair Value
+381,Oskar_Baker,5.85,5.11,4.37,13.3,23.43,-17.31,Inconclusive
+382,Mitch_Brown,6.52,5.81,5.1,8.4,52.89,-24.05,Overpriced
+383,Kade_Chandler,4.26,3.43,2.6,-30.71,-42.83,-42.83,Inconclusive
+384,Jack_Ziebell,9.13,8.56,7.99,-5.83,-0.81,0.47,Fair Value
+385,Jy_Simpkin,11.17,10.71,10.25,9.73,2.49,32.71,Very Overpriced
+386,Ben_Cunnington,11.23,10.77,10.31,-1.64,-2.36,77.14,Fair Value
+387,Aaron_Hall,9.07,8.5,7.93,-9.09,-12.55,90.58,Fair Value
+388,Shaun_Atley,4.73,3.93,3.13,-18.8,-35.78,-41.95,Very Underpriced
+389,Luke_Davies-Uniacke,8.86,8.27,7.68,12.82,12.82,30.44,Very Overpriced
+390,Tarryn_Thomas,7.84,7.2,6.56,-16.96,-1.64,14.65,Fair Value
+391,Tom_Powell,5.28,4.51,3.74,4.16,-30.19,-16.79,Inconclusive
+392,Jaidyn_Stephenson,7.25,6.58,5.91,5.28,-21.2,16.67,Fair Value
+393,Todd_Goldstein,8.81,8.22,7.63,15.29,-3.75,-1.44,Fair Value
+394,Kayne_Turner,4.8,4.0,3.2,25.79,-24.1,-9.3,Underpriced
+395,Lachie_Young,4.14,3.31,2.48,0.91,-41.1,-35.35,Very Underpriced
+396,Jack_Mahony,5.2,4.42,3.64,16.62,-19.78,8.6,Fair Value
+397,Josh_Walker,5.55,4.79,4.03,-5.34,1.27,5.04,Fair Value
+398,Cameron_Zurhaar,8.62,8.02,7.42,19.7,25.31,102.53,Very Overpriced
+399,Ben_McKay,4.47,3.65,2.83,-2.14,-28.99,-11.19,Underpriced
+400,Nick_Larkey,9.11,8.54,7.97,31.99,61.74,64.23,Very Overpriced
+401,Curtis_Taylor,5.79,5.04,4.29,-9.84,57.99,100.8,Very Overpriced
+402,Trent_Dumont,7.54,6.88,6.22,8.86,28.84,-6.52,Overpriced
+403,Bailey_Scott,3.83,2.98,2.13,-18.36,-45.12,-37.53,Very Underpriced
+404,Connor_Menadue,5.33,4.56,3.79,10.14,-10.94,-19.29,Fair Value
+405,Tom_Campbell,6.92,6.23,5.54,-12.38,43.55,0.97,Very Overpriced
+406,Aiden_Bonar,5.77,5.02,4.27,-16.33,72.51,62.46,Very Overpriced
+407,Charlie_Lazzaro,4.42,3.6,2.78,8.11,-13.25,-40.0,Inconclusive
+408,Will_Phillips,4.55,3.74,2.93,-9.22,-22.57,-37.67,Inconclusive
+409,Taylor_Garner,6.83,6.14,5.45,-14.13,17.18,42.79,Fair Value
+410,Jared_Polec,6.96,6.27,5.58,3.64,-10.68,-3.98,Fair Value
+411,Atu_Bosenavulagi,4.89,4.09,3.29,11.75,-24.4,-31.83,Inconclusive
+412,Luke_McDonald,6.88,6.19,5.5,1.31,-24.51,-5.78,Underpriced
+413,Jed_Anderson,7.59,6.94,6.29,-17.77,-9.28,-23.48,Underpriced
+414,Robbie_Tarrant,4.82,4.02,3.22,-4.06,-40.09,-11.84,Very Underpriced
+415,Aidan_Corr,6.22,5.5,4.78,30.33,50.27,-9.39,Very Overpriced
+416,Dom_Tyson,6.24,5.52,4.8,-0.72,33.01,-29.14,Fair Value
+417,Tristan_Xerri,4.77,3.97,3.17,14.08,-4.57,-33.83,Inconclusive
+418,Kyron_Hayden,3.59,2.73,1.87,-16.77,6.64,-24.38,Inconclusive
+419,Ollie_Wines,11.82,11.39,10.96,-2.32,7.86,25.44,Overpriced
+420,Travis_Boak,10.14,9.62,9.1,8.09,0.31,1.69,Fair Value
+421,Karl_Amon,8.18,7.56,6.94,-0.66,-5.85,1.07,Fair Value
+422,Dan_Houston,8.41,7.8,7.19,7.44,1.04,-4.76,Fair Value
+423,Darcy_Byrne-Jones,6.8,6.11,5.42,1.83,-10.8,3.38,Fair Value
+424,Willem_Drew,7.84,7.2,6.56,4.05,-10.34,19.21,Fair Value
+425,Ryan_Burton,5.74,4.99,4.24,8.24,-4.77,-19.52,Fair Value
+426,Robbie_Gray,7.8,7.16,6.52,-16.45,-7.97,-4.15,Fair Value
+427,Steven_Motlop,6.52,5.81,5.1,-11.3,1.93,-15.31,Fair Value
+428,Aliir_Aliir,6.73,6.03,5.33,-14.71,-7.94,-9.05,Underpriced
+429,Tom_Jonas,6.05,5.32,4.59,-10.74,-20.72,2.11,Underpriced
+430,Connor_Rozee,8.47,7.86,7.25,-0.25,15.08,56.57,Very Overpriced
+431,Charlie_Dixon,10.69,10.2,9.71,5.81,22.89,70.28,Very Overpriced
+432,Miles_Bergman,6.45,5.74,5.03,12.99,-2.05,-4.33,Inconclusive
+433,Scott_Lycett,8.58,7.98,7.38,1.4,1.92,43.27,Overpriced
+434,Hamish_Hartlett,4.99,4.2,3.41,3.19,-25.93,-7.08,Underpriced
+435,Mitch_Georgiades,5.01,4.22,3.43,-13.17,-31.38,-28.84,Very Underpriced
+436,Peter_Ladhams,8.71,8.12,7.53,-5.14,103.0,78.85,Very Overpriced
+437,Sam_Powell-Pepper,6.39,5.67,4.95,-2.91,-7.65,8.0,Fair Value
+438,Orazio_Fantasia,6.02,5.28,4.54,-8.33,-21.08,56.21,Underpriced
+439,Kane_Farrell,5.32,4.55,3.78,0.89,19.42,77.73,Very Overpriced
+440,Tom_Clurey,5.17,4.39,3.61,-31.51,-24.18,54.04,Underpriced
+441,Todd_Marshall,6.91,6.22,5.53,-9.59,14.97,128.68,Overpriced
+442,Zak_Butters,8.96,8.38,7.8,15.59,48.06,38.51,Very Overpriced
+443,Lachie_Jones,4.51,3.69,2.87,-19.08,-38.91,-38.5,Inconclusive
+444,Riley_Bonner,5.47,4.71,3.95,-11.63,-0.42,15.44,Fair Value
+445,Xavier_Duursma,7.63,6.98,6.33,9.4,50.43,117.45,Very Overpriced
+446,Trent_McKenzie,6.61,5.9,5.2,-10.06,51.67,33.18,Overpriced
+447,Martin_Frederick,3.95,3.11,2.27,8.74,-48.17,-48.17,Inconclusive
+448,Boyd_Woodcock,4.84,4.04,3.24,-5.39,-7.13,-32.67,Inconclusive
+449,Jarrod_Lienert,6.85,6.16,5.47,12.41,20.31,-5.52,Fair Value
+450,Sam_Mayes,4.15,3.32,2.49,-20.57,-41.86,-30.25,Very Underpriced
+451,Tom_Rockliff,7.48,6.82,6.16,-22.06,-11.66,5.74,Underpriced
+452,Dylan_Williams,5.4,4.63,3.86,-22.83,-22.83,-22.83,Inconclusive
+453,Jayden_Short,8.37,7.76,7.15,4.3,2.37,-12.71,Fair Value
+454,Dustin_Martin,10.48,9.98,9.48,-0.5,2.78,-4.41,Overpriced
+455,Liam_Baker,6.93,6.24,5.55,-0.32,-26.76,21.64,Fair Value
+456,Jack_Graham,7.34,6.67,6.0,4.06,14.21,28.02,Overpriced
+457,Shai_Bolton,8.08,7.45,6.82,-24.82,-35.39,-2.61,Very Underpriced
+458,Bachar_Houli,7.53,6.87,6.21,-10.2,-7.41,6.35,Fair Value
+459,Nathan_Broad,7.22,6.55,5.88,-0.76,8.09,25.72,Overpriced
+460,Shane_Edwards,7.43,6.77,6.11,10.26,-25.52,-11.27,Underpriced
+461,Marlion_Pickett,7.05,6.37,5.69,16.88,12.15,27.4,Overpriced
+462,Kamdyn_McIntosh,6.27,5.55,4.83,-5.93,8.4,6.73,Fair Value
+463,Trent_Cotchin,7.2,6.53,5.86,-4.11,10.87,-9.05,Fair Value
+464,Toby_Nankervis,7.94,7.31,6.68,-11.18,-20.54,14.94,Fair Value
+465,Noah_Balta,6.23,5.51,4.79,-15.49,50.14,-2.3,Fair Value
+466,Kane_Lambert,7.2,6.53,5.86,-11.64,2.03,25.82,Fair Value
+467,Jason_Castagna,5.75,5.0,4.25,-4.58,33.69,-17.22,Fair Value
+468,Jake_Aarts,5.12,4.34,3.56,-24.78,-32.71,9.87,Very Underpriced
+469,Dylan_Grimes,7.01,6.33,5.65,16.79,29.45,76.32,Very Overpriced
+470,Jack_Riewoldt,8.48,7.87,7.26,-8.49,82.18,4.38,Fair Value
+471,David_Astbury,5.52,4.76,4.0,3.7,5.31,38.78,Overpriced
+472,Nick_Vlastuin,8.09,7.46,6.83,13.72,78.04,36.88,Very Overpriced
+473,Dion_Prestia,7.78,7.14,6.5,-12.61,10.53,-0.28,Fair Value
+474,Josh_Caddy,6.98,6.3,5.62,-2.93,33.76,27.53,Very Overpriced
+475,Daniel_Rioli,4.72,3.92,3.12,5.95,-15.15,-2.0,Fair Value
+476,Tom_Lynch,8.02,7.39,6.76,36.85,1.65,31.03,Overpriced
+477,Riley_Collier-Dawkins,5.86,5.12,4.38,-11.88,-13.37,-14.67,Inconclusive
+478,Jack_Ross,5.24,4.46,3.68,24.93,5.44,-3.04,Overpriced
+479,Rhyan_Mansell,3.88,3.03,2.18,-18.77,-38.41,-49.5,Inconclusive
+480,Callum_Coleman-Jones,7.73,7.08,6.43,-7.21,18.0,18.0,Inconclusive
+481,Mabior_Chol,6.41,5.69,4.97,4.02,53.78,34.52,Very Overpriced
+482,Patrick_Naish,4.78,3.98,3.18,-13.29,-33.67,-33.67,Inconclusive
+483,Hugo_Ralphsmith,4.62,3.81,3.0,1.6,-36.5,-36.5,Inconclusive
+484,Will_Martyn,5.66,4.9,4.15,-18.33,-18.33,-18.33,Inconclusive
+485,Derek_Eggmolesse-Smith,3.77,2.92,2.07,-1.68,-41.6,-51.33,Inconclusive
+486,Samson_Ryan,4.74,3.94,3.14,-34.33,-34.33,-34.33,Inconclusive
+487,Jack_Steele,11.62,11.18,10.74,0.54,8.23,-5.17,Fair Value
+488,Brad_Crouch,10.89,10.41,9.93,-1.61,16.44,27.42,Overpriced
+489,Jack_Sinclair,8.22,7.6,6.98,-10.9,7.8,22.38,Fair Value
+490,Jack_Billings,7.2,6.53,5.86,-1.21,-16.39,-20.46,Underpriced
+491,Sebastian_Ross,7.76,7.12,6.48,-7.65,-11.44,-11.11,Fair Value
+492,Bradley_Hill,6.0,5.26,4.52,-2.95,-14.89,-23.32,Fair Value
+493,Hunter_Clark,5.34,4.57,3.8,-31.48,-31.48,-33.86,Very Underpriced
+494,Dougal_Howard,8.29,7.67,7.05,5.65,26.99,9.42,Very Overpriced
+495,Callum_Wilkie,6.77,6.07,5.37,7.82,4.3,8.78,Fair Value
+496,Jack_Higgins,7.32,6.65,5.98,-2.64,6.91,5.56,Fair Value
+497,Tim_Membrey,8.52,7.92,7.32,-13.16,34.24,-0.25,Fair Value
+498,Josh_Battle,5.01,4.22,3.43,25.97,-10.78,-17.42,Underpriced
+499,Jimmy_Webster,6.19,5.46,4.73,8.98,13.99,33.5,Overpriced
+500,Nick_Coffield,4.55,3.74,2.93,12.31,-33.57,-30.48,Very Underpriced
+501,Dan_Butler,5.35,4.58,3.81,-2.55,-17.77,-6.72,Underpriced
+502,Zak_Jones,10.75,10.26,9.77,12.62,136.41,54.98,Very Overpriced
+503,Ryan_Byrnes,6.54,5.83,5.12,-9.33,55.47,-2.83,Inconclusive
+504,Luke_Dunstan,10.97,10.49,10.01,29.51,33.63,21.69,Very Overpriced
+505,Max_King,6.12,5.39,4.66,15.42,-10.47,-26.06,Fair Value
+506,Jack_Bytel,4.53,3.72,2.91,-30.73,-17.33,-37.06,Inconclusive
+507,Jack_Lonie,4.36,3.54,2.72,-15.91,-9.23,-32.44,Underpriced
+508,Tom_Highmore,6.09,5.36,4.63,13.8,1.32,-10.67,Inconclusive
+509,Paddy_Ryder,7.64,6.99,6.34,-3.98,5.59,11.66,Fair Value
+510,Daniel_McKenzie,7.65,7.0,6.35,18.64,117.39,100.57,Very Overpriced
+511,Ben_Long,3.97,3.13,2.29,-4.28,-18.7,-29.82,Very Underpriced
+512,Rowan_Marshall,7.1,6.42,5.74,-16.62,-6.82,-15.42,Underpriced
+513,Mason_Wood,6.89,6.2,5.51,9.93,49.76,98.08,Very Overpriced
+514,Jade_Gresham,9.71,9.17,8.63,12.1,12.52,23.25,Very Overpriced
+515,Jarryn_Geary,5.34,4.57,3.8,-13.77,4.34,62.63,Fair Value
+516,Jake_Carlisle,5.14,4.36,3.58,-13.83,5.83,-3.96,Fair Value
+517,Shaun_McKernan,5.65,4.89,4.13,24.43,27.68,3.38,Very Overpriced
+518,Paul_Hunter,5.22,4.44,3.66,-9.76,-26.0,-26.0,Inconclusive
+519,Darragh_Joyce,5.02,4.23,3.44,2.17,0.71,-29.5,Inconclusive
+520,James_Frawley,4.56,3.75,2.94,0.81,18.67,2.46,Fair Value
+521,Oscar_Clavarino,5.01,4.22,3.43,-14.4,-29.67,-29.67,Inconclusive
+522,Leo_Connolly,5.92,5.18,4.44,-13.67,-13.67,-13.67,Inconclusive
+523,Luke_Parker,11.3,10.84,10.38,9.49,22.35,-1.99,Overpriced
+524,Jake_Lloyd,7.93,7.3,6.67,-8.18,-7.59,-15.51,Underpriced
+525,Callum_Mills,10.68,10.19,9.7,6.81,2.31,3.14,Fair Value
+526,Josh_Kennedy,7.95,7.32,6.69,-15.08,-15.28,-8.96,Underpriced
+527,Jordan_Dawson,7.29,6.62,5.95,-0.9,-2.79,-7.28,Fair Value
+528,Oliver_Florent,5.9,5.16,4.42,-27.22,-25.86,-29.02,Very Underpriced
+529,Harry_Cunningham,6.01,5.27,4.53,0.19,-7.22,30.12,Fair Value
+530,Chad_Warner,5.64,4.88,4.12,-10.13,-30.88,-10.13,Very Underpriced
+531,Dane_Rampe,6.68,5.98,5.28,-11.67,-5.38,-6.56,Fair Value
+532,Justin_McInerney,6.6,5.89,5.18,10.71,11.55,3.51,Fair Value
+533,Tom_Hickey,7.86,7.22,6.58,-11.41,-21.78,0.42,Underpriced
+534,Tom_Papley,6.83,6.14,5.45,0.16,-5.83,-11.01,Fair Value
+535,James_Rowbottom,6.57,5.86,5.15,-8.15,-17.46,53.4,Fair Value
+536,George_Hewett,6.26,5.54,4.82,16.88,33.82,-2.46,Overpriced
+537,Tom_McCartin,5.42,4.65,3.88,-16.96,-13.73,-4.71,Underpriced
+538,Isaac_Heeney,7.39,6.73,6.07,-10.62,11.06,-14.38,Fair Value
+539,Sam_Wicks,5.03,4.24,3.45,14.91,23.62,-43.39,Underpriced
+540,Errol_Gulden,4.86,4.06,3.26,-1.46,-48.35,-32.33,Inconclusive
+541,Lance_Franklin,8.78,8.19,7.6,-0.85,10.83,-16.51,Fair Value
+542,Will_Hayward,6.05,5.32,4.59,15.4,-0.93,5.77,Fair Value
+543,Braeden_Campbell,4.64,3.83,3.02,-21.52,-27.32,-36.17,Inconclusive
+544,Nick_Blakey,4.48,3.66,2.84,-7.34,-13.88,-32.35,Underpriced
+545,Hayden_McLean,4.91,4.12,3.33,-23.42,-7.0,0.0,Underpriced
+546,Robbie_Fox,4.95,4.16,3.37,-12.24,31.65,0.97,Fair Value
+547,Sam_Reid,7.3,6.63,5.96,-14.12,42.89,53.12,Very Overpriced
+548,Logan_McDonald,3.89,3.04,2.19,-16.71,-55.43,-49.33,Inconclusive
+549,Callum_Sinclair,7.13,6.45,5.77,12.37,33.54,32.17,Overpriced
+550,Dylan_Stephens,4.95,4.16,3.37,-14.58,1.96,-19.38,Inconclusive
+551,Kaiden_Brand,5.12,4.34,3.56,-5.24,-2.25,-4.62,Fair Value
+552,Lewis_Melican,5.36,4.59,3.82,2.91,6.25,42.55,Overpriced
+553,Joel_Amartey,5.7,4.95,4.2,-25.56,-17.5,-17.5,Inconclusive
+554,James_Bell,4.08,3.24,2.4,-7.69,-15.4,-24.65,Inconclusive
+555,Colin_ORiordan,4.72,3.92,3.12,7.69,35.64,-26.04,Fair Value
+556,Ryan_Clarke,4.51,3.69,2.87,-28.07,-32.66,-38.6,Very Underpriced
+557,Lewis_Taylor,4.41,3.59,2.77,-15.33,-6.27,-45.93,Very Underpriced
+558,Matt_Ling,4.23,3.4,2.57,-24.61,-43.33,-43.33,Inconclusive
+559,Andrew_Gaff,8.16,7.54,6.92,-8.27,-26.37,-1.31,Underpriced
+560,Dom_Sheed,10.32,9.81,9.3,-0.41,15.96,2.83,Fair Value
+561,Jack_Redden,9.11,8.54,7.97,-6.97,1.55,8.65,Fair Value
+562,Tim_Kelly,9.03,8.45,7.87,-25.55,8.33,-0.94,Underpriced
+563,Josh_Rotham,7.1,6.42,5.74,15.26,14.64,12.43,Overpriced
+564,Brad_Sheppard,6.79,6.1,5.41,2.52,3.57,22.98,Fair Value
+565,Nic_Naitanui,11.08,10.61,10.14,3.11,31.47,37.61,Very Overpriced
+566,Shannon_Hurn,9.07,8.49,7.91,8.85,4.69,52.15,Overpriced
+567,Tom_Cole,5.3,4.53,3.76,6.34,7.86,-14.37,Fair Value
+568,Jamie_Cripps,6.3,5.58,4.86,-13.35,-16.34,-14.55,Fair Value
+569,Jackson_Nelson,5.65,4.89,4.13,-3.36,4.71,-11.73,Fair Value
+570,Jack_Darling,4.92,4.13,3.34,-7.19,-61.11,-45.44,Very Underpriced
+571,Tom_Barrass,7.57,6.92,6.27,15.33,33.08,14.76,Overpriced
+572,Liam_Duggan,5.33,4.56,3.79,-17.69,-31.22,-24.75,Very Underpriced
+573,Jarrod_Brander,5.37,4.6,3.83,-16.82,-22.95,31.43,Underpriced
+574,Oscar_Allen,6.98,6.3,5.62,-9.48,-8.3,-19.13,Underpriced
+575,Jeremy_McGovern,7.67,7.02,6.37,-0.28,11.08,36.58,Overpriced
+576,Jake_Waterman,6.23,5.51,4.79,6.37,-14.57,77.17,Fair Value
+577,Josh_Kennedy,7.67,7.02,6.37,-15.52,9.52,0.29,Fair Value
+578,Alex_Witherden,8.03,7.4,6.77,11.95,30.28,51.64,Overpriced
+579,Jack_Petruccelle,5.75,5.0,4.25,-0.79,-19.74,122.22,Fair Value
+580,Zac_Langdon,6.46,5.75,5.04,3.6,81.96,209.14,Very Overpriced
+581,Liam_Ryan,6.19,5.46,4.73,-11.65,-6.98,-32.17,Underpriced
+582,Jamaine_Jones,4.68,3.87,3.06,-15.5,-11.85,28.15,Fair Value
+583,Elliot_Yeo,8.09,7.46,6.83,-8.35,-1.32,18.98,Fair Value
+584,Xavier_ONeill,5.75,5.0,4.25,13.64,88.68,-16.67,Inconclusive
+585,Brendon_Ah Chee,6.17,5.44,4.71,7.51,41.67,63.86,Very Overpriced
+586,Harry_Edwards,5.46,4.7,3.94,1.51,11.64,-21.67,Inconclusive
+587,Luke_Shuey,8.21,7.59,6.97,-8.22,1.88,-5.95,Fair Value
+588,Luke_Edwards,5.44,4.67,3.9,-25.52,-22.17,-22.17,Inconclusive
+589,Luke_Foley,6.37,5.65,4.93,10.14,-5.83,-5.83,Inconclusive
+590,Bailey_Williams,3.57,2.71,1.85,-27.35,-25.14,-54.83,Inconclusive
+591,Nathan_Vardy,3.9,3.05,2.2,5.9,-31.92,-9.5,Underpriced
+592,Isiah_Winder,5.7,4.95,4.2,-17.5,-17.5,-17.5,Inconclusive
+593,Brayden_Ainsworth,3.52,2.65,1.78,-19.45,-14.24,-51.2,Inconclusive
+594,Jack_Macrae,11.73,11.3,10.87,0.71,5.41,1.16,Fair Value
+595,Marcus_Bontempelli,14.59,14.31,14.03,4.91,22.73,49.22,Very Overpriced
+596,Tom_Liberatore,9.65,9.11,8.57,-14.3,-14.38,-2.36,Underpriced
+597,Bailey_Dale,8.05,7.42,6.79,-2.75,-8.96,7.54,Underpriced
+598,Bailey_Smith,8.54,7.94,7.34,33.9,10.58,-6.04,Overpriced
+599,Caleb_Daniel,8.87,8.28,7.69,-0.72,9.81,-0.36,Overpriced
+600,Lachie_Hunter,9.19,8.62,8.05,2.01,14.48,31.2,Overpriced
+601,Taylor_Duryea,7.52,6.86,6.2,9.24,17.47,15.49,Overpriced
+602,Adam_Treloar,7.34,6.67,6.0,-23.95,-34.29,-3.19,Very Underpriced
+603,Alex_Keath,5.24,4.46,3.68,-10.62,-17.71,-27.36,Very Underpriced
+604,Bailey_Williams,6.15,5.42,4.69,-10.12,4.84,-17.75,Fair Value
+605,Aaron_Naughton,8.87,8.28,7.69,21.23,-6.76,-6.23,Fair Value
+606,Josh_Dunkley,11.52,11.07,10.62,-3.91,46.62,87.95,Very Overpriced
+607,Josh_Bruce,5.75,5.0,4.25,-16.81,-38.5,-49.9,Very Underpriced
+608,Hayden_Crozier,6.17,5.44,4.71,-17.7,0.93,20.09,Fair Value
+609,Patrick_Lipinski,6.58,5.87,5.16,24.63,16.01,18.83,Overpriced
+610,Anthony_Scott,4.39,3.57,2.75,-18.31,-35.21,-24.52,Inconclusive
+611,Jason_Johannisen,4.41,3.59,2.77,-6.51,-19.51,-19.33,Underpriced
+612,Tim_English,7.23,6.56,5.89,14.09,-18.41,-4.93,Underpriced
+613,Lachlan_McNeil,4.3,3.47,2.64,-12.15,-10.1,-42.17,Inconclusive
+614,Zaine_Cordy,5.2,4.42,3.64,-7.72,-21.91,23.12,Fair Value
+615,Easton_Wood,5.35,4.58,3.81,-4.38,15.37,16.24,Overpriced
+616,Cody_Weightman,6.05,5.32,4.59,-17.26,8.57,-11.33,Inconclusive
+617,Stefan_Martin,4.82,4.02,3.22,-15.01,-20.71,5.51,Underpriced
+618,Mitch_Hannan,5.13,4.35,3.57,-10.86,62.92,32.22,Overpriced
+619,Roarke_Smith,5.22,4.44,3.66,-1.99,-0.22,16.23,Fair Value
+620,Laitham_Vandermeer,3.75,2.89,2.03,-23.14,-29.34,-44.53,Very Underpriced
+621,Jordon_Sweet,5.48,4.72,3.96,-18.06,-21.33,-21.33,Inconclusive
+622,Mitch_Wallis,3.89,3.04,2.19,-13.64,-19.15,-36.0,Very Underpriced
+623,Ryan_Gardner,3.88,3.03,2.18,-23.87,-20.47,18.82,Underpriced
+624,Toby_McLean,6.72,6.02,5.32,-0.5,18.5,23.36,Very Overpriced
+625,Lewis_Young,3.83,2.98,2.13,-29.05,-46.11,-25.13,Very Underpriced
+626,Ed_Richards,4.66,3.85,3.04,41.54,-3.27,-5.87,Fair Value
+627,Riley_Garcia,6.22,5.49,4.76,-8.5,-8.5,-8.5,Inconclusive
+628,Buku_Khamis,5.86,5.12,4.38,-14.67,-14.67,-14.67,Inconclusive
+629,Louis_Butler,5.13,4.35,3.57,-14.87,-27.5,-27.5,Inconclusive
+630,Rhylee_West,2.84,1.94,1.04,-24.51,-61.51,-67.67,Inconclusive
+631,Josh_Schache,4.26,3.43,2.6,-15.1,-43.4,-30.43,Very Underpriced
+632,Lin_Jong,5.27,4.49,3.71,-10.56,-28.16,-14.64,Very Underpriced
+633,Ben_Cavarra,5.35,4.58,3.81,-14.87,-23.67,-23.67,Inconclusive
